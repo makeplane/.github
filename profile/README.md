@@ -1,4 +1,6 @@
-<a href="https://app.plane.so/"><img src="https://plane-marketing.s3.ap-south-1.amazonaws.com/plane-readme/planereadme.webp" width="100%" alt="Plane - Simple, extensible, open-source project mangement tool."></a>
+
+![planereadme](https://github.com/user-attachments/assets/7c18b9b8-c8a5-4787-b1de-c9d1606d8e57)
+
 
 <h3 align="center">
   <b><a href="https://app.plane.so/">Get Started</a></b>
